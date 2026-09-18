@@ -1,0 +1,793 @@
+Group,Count,Dataset
+Hydroxy,11,Sage 2.0
+Alcohol,11,Sage 2.0
+Primary Alcohol,10,Sage 2.0
+Alkane,5,Sage 2.0
+Aryl Chloride,2,Sage 2.0
+Aromatic,17,Sage 2.0
+Halogen Derivative,12,Sage 2.0
+Heterocycle,16,Sage 2.0
+Tertiary Amine,7,Sage 2.0
+Tertiary Aliphatic Amine,7,Sage 2.0
+Ether,7,Sage 2.0
+Amine,17,Sage 2.0
+Dialkylether,6,Sage 2.0
+Secondary Amine,8,Sage 2.0
+"1,2 Aminoalcohol",3,Sage 2.0
+Secondary Aliphatic Amine,7,Sage 2.0
+Alkyl Bromide,5,Sage 2.0
+Ketone,5,Sage 2.0
+Carbonyl,6,Sage 2.0
+Tertiary Alcohol,1,Sage 2.0
+Carboxylic Acid Derivative,10,Sage 2.0
+Carboxylic Acid Ester,5,Sage 2.0
+Carboxylic Acid Tertiary Amide,3,Sage 2.0
+Carboxylic Acid Amide,4,Sage 2.0
+Secondary Mixed Amine,1,Sage 2.0
+Primary Amine,5,Sage 2.0
+Primary Aliphatic Amine,3,Sage 2.0
+Alkylarylether,1,Sage 2.0
+Primary Aromatic Amine,2,Sage 2.0
+Carboxylic Acid Secondary Amide,1,Sage 2.0
+Acetal,1,Sage 2.0
+Lactam,1,Sage 2.0
+Alkyl Chloride,5,Sage 2.0
+Alkene,3,Sage 2.0
+"1,2 Diol",1,Sage 2.0
+Secondary Alcohol,1,Sage 2.0
+Aldehyde,1,Sage 2.0
+Aqueous | Heterocycle,30,Sage 2.0
+Aqueous | Tertiary Amine,23,Sage 2.0
+Amine | Aqueous,44,Sage 2.0
+Aqueous | Tertiary Aliphatic Amine,23,Sage 2.0
+Aqueous | Primary Alcohol,32,Sage 2.0
+Aqueous | Hydroxy,35,Sage 2.0
+Alcohol | Aqueous,35,Sage 2.0
+Aqueous | Aromatic,9,Sage 2.0
+Aqueous | Secondary Aliphatic Amine,21,Sage 2.0
+Aqueous | Secondary Amine,21,Sage 2.0
+"1,2 Aminoalcohol | Aqueous",9,Sage 2.0
+Alkane | Ether,15,Sage 2.0
+Alkane | Dialkylether,15,Sage 2.0
+Aqueous | Dialkylether,12,Sage 2.0
+Aqueous | Ether,12,Sage 2.0
+Aqueous | Secondary Alcohol,6,Sage 2.0
+Hydroxy | Primary Alcohol,14,Sage 2.0
+Hydroxy | Tertiary Alcohol,3,Sage 2.0
+Primary Alcohol | Tertiary Alcohol,3,Sage 2.0
+Alcohol | Tertiary Alcohol,3,Sage 2.0
+Alcohol | Hydroxy,14,Sage 2.0
+Alcohol | Alcohol,14,Sage 2.0
+Hydroxy | Hydroxy,14,Sage 2.0
+Alcohol | Primary Alcohol,14,Sage 2.0
+Heterocycle | Heterocycle,21,Sage 2.0
+Aromatic | Heterocycle,63,Sage 2.0
+Aromatic | Aromatic,42,Sage 2.0
+Aqueous | Carboxylic Acid Derivative,4,Sage 2.0
+Alkane | Carboxylic Acid Amide,3,Sage 2.0
+Alkane | Carboxylic Acid Derivative,18,Sage 2.0
+Alkane | Lactam,3,Sage 2.0
+Alkane | Heterocycle,12,Sage 2.0
+Alkane | Carboxylic Acid Tertiary Amide,3,Sage 2.0
+Aromatic | Carboxylic Acid Tertiary Amide,12,Sage 2.0
+Aromatic | Lactam,9,Sage 2.0
+Aromatic | Carboxylic Acid Amide,18,Sage 2.0
+Aromatic | Carboxylic Acid Derivative,27,Sage 2.0
+Carbonyl | Hydroxy,15,Sage 2.0
+Hydroxy | Ketone,12,Sage 2.0
+Alcohol | Carbonyl,15,Sage 2.0
+Alcohol | Ketone,12,Sage 2.0
+Ketone | Tertiary Alcohol,3,Sage 2.0
+Carbonyl | Tertiary Alcohol,3,Sage 2.0
+Heterocycle | Primary Aromatic Amine,15,Sage 2.0
+Dialkylether | Primary Amine,3,Sage 2.0
+Aromatic | Dialkylether,45,Sage 2.0
+Ether | Primary Aromatic Amine,3,Sage 2.0
+Ether | Primary Amine,3,Sage 2.0
+Aromatic | Ether,63,Sage 2.0
+Heterocycle | Primary Amine,18,Sage 2.0
+Amine | Ether,3,Sage 2.0
+Amine | Heterocycle,21,Sage 2.0
+Amine | Dialkylether,3,Sage 2.0
+Dialkylether | Primary Aromatic Amine,3,Sage 2.0
+Aromatic | Carboxylic Acid Secondary Amide,6,Sage 2.0
+Carboxylic Acid Secondary Amide | Primary Aromatic Amine,3,Sage 2.0
+Amine | Carboxylic Acid Derivative,3,Sage 2.0
+Carboxylic Acid Derivative | Primary Amine,3,Sage 2.0
+Carboxylic Acid Amide | Primary Aromatic Amine,3,Sage 2.0
+Amine | Carboxylic Acid Amide,3,Sage 2.0
+Carboxylic Acid Derivative | Primary Aromatic Amine,3,Sage 2.0
+Amine | Carboxylic Acid Secondary Amide,3,Sage 2.0
+Carboxylic Acid Secondary Amide | Primary Amine,3,Sage 2.0
+Carboxylic Acid Amide | Primary Amine,3,Sage 2.0
+Carboxylic Acid Derivative | Dialkylether,3,Sage 2.0
+Carboxylic Acid Secondary Amide | Heterocycle,3,Sage 2.0
+Carboxylic Acid Amide | Ether,3,Sage 2.0
+Carboxylic Acid Amide | Heterocycle,6,Sage 2.0
+Carboxylic Acid Derivative | Heterocycle,9,Sage 2.0
+Carboxylic Acid Secondary Amide | Ether,3,Sage 2.0
+Carboxylic Acid Secondary Amide | Dialkylether,3,Sage 2.0
+Carboxylic Acid Amide | Dialkylether,3,Sage 2.0
+Carboxylic Acid Derivative | Ether,3,Sage 2.0
+Alkane | Alkane,6,Sage 2.0
+Alkane | Primary Alcohol,12,Sage 2.0
+Alcohol | Alkane,15,Sage 2.0
+Alkane | Hydroxy,15,Sage 2.0
+Alkane | Aromatic,15,Sage 2.0
+Alkyl Bromide | Carboxylic Acid Ester,15,Sage 2.0
+Carboxylic Acid Derivative | Halogen Derivative,66,Sage 2.0
+Alkyl Bromide | Carboxylic Acid Derivative,15,Sage 2.0
+Carboxylic Acid Ester | Halogen Derivative,30,Sage 2.0
+"1,2 Diol | Primary Alcohol",5,Sage 2.0
+Primary Alcohol | Primary Alcohol,11,Sage 2.0
+"1,2 Diol | Hydroxy",5,Sage 2.0
+"1,2 Diol | Alcohol",5,Sage 2.0
+Aromatic | Primary Aliphatic Amine,3,Sage 2.0
+"1,2 Aminoalcohol | Heterocycle",3,Sage 2.0
+Heterocycle | Primary Aliphatic Amine,3,Sage 2.0
+Heterocycle | Hydroxy,21,Sage 2.0
+Amine | Aromatic,21,Sage 2.0
+Alcohol | Heterocycle,21,Sage 2.0
+Alcohol | Aromatic,39,Sage 2.0
+Aromatic | Hydroxy,39,Sage 2.0
+Heterocycle | Primary Alcohol,18,Sage 2.0
+"1,2 Aminoalcohol | Aromatic",3,Sage 2.0
+Aromatic | Primary Alcohol,36,Sage 2.0
+Aromatic | Primary Amine,15,Sage 2.0
+Aromatic | Tertiary Aliphatic Amine,3,Sage 2.0
+Heterocycle | Tertiary Amine,3,Sage 2.0
+Aromatic | Tertiary Amine,3,Sage 2.0
+Heterocycle | Tertiary Aliphatic Amine,3,Sage 2.0
+Aromatic | Secondary Alcohol,3,Sage 2.0
+Carbonyl | Secondary Alcohol,3,Sage 2.0
+Ketone | Secondary Alcohol,3,Sage 2.0
+Acetal | Aromatic,3,Sage 2.0
+Acetal | Halogen Derivative,3,Sage 2.0
+Acetal | Aryl Chloride,3,Sage 2.0
+Aryl Chloride | Heterocycle,9,Sage 2.0
+Halogen Derivative | Heterocycle,24,Sage 2.0
+Ether | Halogen Derivative,15,Sage 2.0
+Aryl Chloride | Dialkylether,6,Sage 2.0
+Aryl Chloride | Ether,6,Sage 2.0
+Dialkylether | Halogen Derivative,15,Sage 2.0
+Ether | Heterocycle,12,Sage 2.0
+Dialkylether | Heterocycle,12,Sage 2.0
+Alkyl Chloride | Ether,9,Sage 2.0
+Alkyl Chloride | Dialkylether,9,Sage 2.0
+Carbonyl | Ether,27,Sage 2.0
+Carbonyl | Dialkylether,27,Sage 2.0
+Ether | Ketone,27,Sage 2.0
+Carbonyl | Heterocycle,39,Sage 2.0
+Heterocycle | Ketone,39,Sage 2.0
+Dialkylether | Ketone,27,Sage 2.0
+Aryl Chloride | Carboxylic Acid Derivative,6,Sage 2.0
+Carboxylic Acid Amide | Halogen Derivative,36,Sage 2.0
+Aryl Chloride | Carboxylic Acid Secondary Amide,3,Sage 2.0
+Carboxylic Acid Secondary Amide | Halogen Derivative,3,Sage 2.0
+Aryl Chloride | Carboxylic Acid Amide,6,Sage 2.0
+Carboxylic Acid Tertiary Amide | Halogen Derivative,33,Sage 2.0
+Aryl Chloride | Carboxylic Acid Tertiary Amide,3,Sage 2.0
+Carbonyl | Primary Alcohol,9,Sage 2.0
+Ketone | Primary Alcohol,6,Sage 2.0
+Aqueous | Primary Aliphatic Amine,9,Sage 2.0
+Aqueous | Primary Amine,9,Sage 2.0
+Alkyl Chloride | Carboxylic Acid Ester,15,Sage 2.0
+Alkyl Chloride | Carboxylic Acid Derivative,45,Sage 2.0
+Dialkylether | Tertiary Alcohol,3,Sage 2.0
+Dialkylether | Hydroxy,18,Sage 2.0
+Alcohol | Ether,36,Sage 2.0
+Ether | Tertiary Alcohol,3,Sage 2.0
+Ether | Hydroxy,36,Sage 2.0
+Alcohol | Dialkylether,18,Sage 2.0
+Carboxylic Acid Derivative | Carboxylic Acid Ester,15,Sage 2.0
+Carboxylic Acid Derivative | Carboxylic Acid Derivative,15,Sage 2.0
+Carboxylic Acid Ester | Carboxylic Acid Ester,15,Sage 2.0
+Carboxylic Acid Ester | Hydroxy,15,Sage 2.0
+Alcohol | Carboxylic Acid Ester,15,Sage 2.0
+Carboxylic Acid Ester | Primary Alcohol,12,Sage 2.0
+Carboxylic Acid Derivative | Hydroxy,24,Sage 2.0
+Carboxylic Acid Derivative | Primary Alcohol,18,Sage 2.0
+Alcohol | Carboxylic Acid Derivative,24,Sage 2.0
+Alkyl Chloride | Carboxylic Acid Tertiary Amide,30,Sage 2.0
+Alkyl Chloride | Carboxylic Acid Amide,30,Sage 2.0
+Dialkylether | Primary Alcohol,15,Sage 2.0
+Ether | Primary Alcohol,33,Sage 2.0
+Alkane | Carboxylic Acid Ester,15,Sage 2.0
+Aldehyde | Primary Alcohol,3,Sage 2.0
+Alcohol | Aldehyde,3,Sage 2.0
+Aldehyde | Hydroxy,3,Sage 2.0
+Carboxylic Acid Ester | Secondary Alcohol,3,Sage 2.0
+Carboxylic Acid Derivative | Secondary Alcohol,3,Sage 2.0
+Heterocycle | Lactam,3,Sage 2.0
+Carboxylic Acid Tertiary Amide | Heterocycle,3,Sage 2.0
+Aromatic | Primary Aromatic Amine,12,Sage 2.0
+Aromatic | Carboxylic Acid Ester,6,Sage 2.0
+Ketone | Primary Amine,6,Sage 2.0
+Amine | Carbonyl,30,Sage 2.0
+Ketone | Primary Aromatic Amine,6,Sage 2.0
+Carbonyl | Primary Aromatic Amine,6,Sage 2.0
+Aromatic | Ketone,12,Sage 2.0
+Amine | Ketone,30,Sage 2.0
+Carbonyl | Primary Amine,6,Sage 2.0
+Aromatic | Carbonyl,12,Sage 2.0
+Ketone | Secondary Amine,18,Sage 2.0
+Carbonyl | Secondary Amine,18,Sage 2.0
+Carbonyl | Secondary Mixed Amine,6,Sage 2.0
+Ketone | Secondary Mixed Amine,6,Sage 2.0
+Alkane | Secondary Alcohol,3,Sage 2.0
+Alkane | Secondary Mixed Amine,6,Sage 2.0
+Alkane | Amine,6,Sage 2.0
+Alkane | Secondary Amine,6,Sage 2.0
+Aromatic | Secondary Amine,3,Sage 2.0
+Aromatic | Secondary Mixed Amine,3,Sage 2.0
+Carbonyl | Secondary Aliphatic Amine,12,Sage 2.0
+Ketone | Secondary Aliphatic Amine,12,Sage 2.0
+Carbonyl | Tertiary Amine,6,Sage 2.0
+Carbonyl | Tertiary Aliphatic Amine,6,Sage 2.0
+Ketone | Tertiary Amine,6,Sage 2.0
+Ketone | Tertiary Aliphatic Amine,6,Sage 2.0
+Alkene | Primary Alcohol,9,Sage 2.0
+Alcohol | Alkene,9,Sage 2.0
+Alkene | Hydroxy,9,Sage 2.0
+"1,2 Diol | Aqueous",3,Sage 2.0
+Alkyl Chloride | Heterocycle,15,Sage 2.0
+Alkyl Chloride | Lactam,15,Sage 2.0
+Halogen Derivative | Lactam,15,Sage 2.0
+Aromatic | Halogen Derivative,3,Sage 2.0
+Aromatic | Aryl Chloride,3,Sage 2.0
+Aqueous | Carboxylic Acid Ester,1,Sage 2.0
+Carbonyl | Carboxylic Acid Derivative,3,Sage 2.0
+Carbonyl | Carboxylic Acid Tertiary Amide,3,Sage 2.0
+Carbonyl | Lactam,3,Sage 2.0
+Carboxylic Acid Amide | Ketone,3,Sage 2.0
+Carboxylic Acid Derivative | Ketone,3,Sage 2.0
+Ketone | Lactam,3,Sage 2.0
+Carbonyl | Carboxylic Acid Amide,3,Sage 2.0
+Carboxylic Acid Tertiary Amide | Ketone,3,Sage 2.0
+Acetal | Carbonyl,9,Sage 2.0
+Acetal | Ketone,9,Sage 2.0
+Alcohol | Alkylarylether,18,Sage 2.0
+Alkylarylether | Hydroxy,18,Sage 2.0
+Alkylarylether | Aromatic,18,Sage 2.0
+Alkylarylether | Primary Alcohol,18,Sage 2.0
+Alkyl Bromide | Hydroxy,3,Sage 2.0
+Alkyl Bromide | Primary Alcohol,3,Sage 2.0
+Alcohol | Halogen Derivative,3,Sage 2.0
+Halogen Derivative | Primary Alcohol,3,Sage 2.0
+Alcohol | Alkyl Bromide,3,Sage 2.0
+Halogen Derivative | Hydroxy,3,Sage 2.0
+Carboxylic Acid Derivative | Tertiary Alcohol,3,Sage 2.0
+Heterocycle | Tertiary Alcohol,3,Sage 2.0
+Primary Amine,6,Sage 2.3rc1
+Amine,15,Sage 2.3rc1
+Primary Aliphatic Amine,4,Sage 2.3rc1
+Aryl Chloride,2,Sage 2.3rc1
+Aromatic,16,Sage 2.3rc1
+Halogen Derivative,17,Sage 2.3rc1
+Ketone,5,Sage 2.3rc1
+Carbonyl,6,Sage 2.3rc1
+Alkane,5,Sage 2.3rc1
+Acetal,1,Sage 2.3rc1
+Heterocycle,13,Sage 2.3rc1
+Alkyl Chloride,8,Sage 2.3rc1
+Dialkylether,6,Sage 2.3rc1
+Ether,7,Sage 2.3rc1
+Hydroxy,12,Sage 2.3rc1
+Secondary Alcohol,1,Sage 2.3rc1
+Alcohol,11,Sage 2.3rc1
+Tertiary Alcohol,2,Sage 2.3rc1
+Primary Alcohol,8,Sage 2.3rc1
+Alkyl Bromide,6,Sage 2.3rc1
+Tertiary Amine,5,Sage 2.3rc1
+Tertiary Aliphatic Amine,5,Sage 2.3rc1
+Aldehyde,1,Sage 2.3rc1
+Nitrile,3,Sage 2.3rc1
+Primary Aromatic Amine,2,Sage 2.3rc1
+Carboxylic Acid Derivative,11,Sage 2.3rc1
+Carboxylic Acid Tertiary Amide,3,Sage 2.3rc1
+Carboxylic Acid Amide,3,Sage 2.3rc1
+Alkene,2,Sage 2.3rc1
+Secondary Amine,5,Sage 2.3rc1
+Secondary Mixed Amine,1,Sage 2.3rc1
+Carboxylic Acid Ester,6,Sage 2.3rc1
+Secondary Aliphatic Amine,4,Sage 2.3rc1
+Phenol,1,Sage 2.3rc1
+Alkylarylether,1,Sage 2.3rc1
+Carboxylic Acid,1,Sage 2.3rc1
+"1,2 Aminoalcohol",2,Sage 2.3rc1
+Lactam,1,Sage 2.3rc1
+Alkyl Chloride | Ether,9,Sage 2.3rc1
+Ether | Halogen Derivative,18,Sage 2.3rc1
+Alkyl Chloride | Dialkylether,9,Sage 2.3rc1
+Dialkylether | Halogen Derivative,18,Sage 2.3rc1
+Alkane | Aromatic,21,Sage 2.3rc1
+Alkane | Alkane,6,Sage 2.3rc1
+Alkyl Chloride | Carboxylic Acid Tertiary Amide,39,Sage 2.3rc1
+Alkyl Chloride | Carboxylic Acid Amide,39,Sage 2.3rc1
+Carboxylic Acid Tertiary Amide | Halogen Derivative,42,Sage 2.3rc1
+Carboxylic Acid Amide | Halogen Derivative,42,Sage 2.3rc1
+Carboxylic Acid Derivative | Halogen Derivative,87,Sage 2.3rc1
+Alkyl Chloride | Carboxylic Acid Derivative,57,Sage 2.3rc1
+Alkane | Primary Alcohol,12,Sage 2.3rc1
+Alcohol | Alkane,15,Sage 2.3rc1
+Alkane | Hydroxy,15,Sage 2.3rc1
+Carboxylic Acid Ester | Hydroxy,18,Sage 2.3rc1
+Alcohol | Carboxylic Acid Ester,18,Sage 2.3rc1
+Carboxylic Acid Ester | Primary Alcohol,15,Sage 2.3rc1
+Carboxylic Acid Derivative | Hydroxy,30,Sage 2.3rc1
+Carboxylic Acid Derivative | Primary Alcohol,24,Sage 2.3rc1
+Alcohol | Carboxylic Acid Derivative,30,Sage 2.3rc1
+Alkane | Ether,15,Sage 2.3rc1
+Alkane | Dialkylether,15,Sage 2.3rc1
+Alkane | Heterocycle,12,Sage 2.3rc1
+Aqueous | Primary Alcohol,30,Sage 2.3rc1
+Aqueous | Hydroxy,30,Sage 2.3rc1
+Alcohol | Aqueous,30,Sage 2.3rc1
+Heterocycle | Heterocycle,21,Sage 2.3rc1
+Aromatic | Heterocycle,63,Sage 2.3rc1
+Aromatic | Aromatic,42,Sage 2.3rc1
+Alkane | Secondary Mixed Amine,6,Sage 2.3rc1
+Alkane | Amine,6,Sage 2.3rc1
+Alkane | Secondary Amine,6,Sage 2.3rc1
+Aromatic | Secondary Amine,3,Sage 2.3rc1
+Aromatic | Secondary Mixed Amine,3,Sage 2.3rc1
+Amine | Aromatic,18,Sage 2.3rc1
+Carboxylic Acid Derivative | Heterocycle,6,Sage 2.3rc1
+Aromatic | Carboxylic Acid Derivative,21,Sage 2.3rc1
+Heterocycle | Lactam,3,Sage 2.3rc1
+Aromatic | Carboxylic Acid Tertiary Amide,12,Sage 2.3rc1
+Aromatic | Lactam,9,Sage 2.3rc1
+Carboxylic Acid Tertiary Amide | Heterocycle,3,Sage 2.3rc1
+Carboxylic Acid Amide | Heterocycle,3,Sage 2.3rc1
+Aromatic | Carboxylic Acid Amide,12,Sage 2.3rc1
+Aqueous | Heterocycle,12,Sage 2.3rc1
+Aqueous | Carboxylic Acid Derivative,3,Sage 2.3rc1
+Carbonyl | Hydroxy,18,Sage 2.3rc1
+Hydroxy | Ketone,15,Sage 2.3rc1
+Alcohol | Carbonyl,18,Sage 2.3rc1
+Alcohol | Ketone,15,Sage 2.3rc1
+Carbonyl | Primary Alcohol,12,Sage 2.3rc1
+Ketone | Primary Alcohol,9,Sage 2.3rc1
+Carbonyl | Secondary Aliphatic Amine,12,Sage 2.3rc1
+Ketone | Secondary Amine,18,Sage 2.3rc1
+Amine | Carbonyl,30,Sage 2.3rc1
+Carbonyl | Secondary Amine,18,Sage 2.3rc1
+Amine | Ketone,30,Sage 2.3rc1
+Ketone | Secondary Aliphatic Amine,12,Sage 2.3rc1
+Hydroxy | Primary Alcohol,20,Sage 2.3rc1
+Amine | Hydroxy,6,Sage 2.3rc1
+Primary Alcohol | Primary Alcohol,14,Sage 2.3rc1
+Alcohol | Amine,6,Sage 2.3rc1
+Primary Alcohol | Tertiary Aliphatic Amine,6,Sage 2.3rc1
+Hydroxy | Tertiary Amine,6,Sage 2.3rc1
+Alcohol | Tertiary Amine,6,Sage 2.3rc1
+Alcohol | Tertiary Aliphatic Amine,6,Sage 2.3rc1
+Alcohol | Hydroxy,20,Sage 2.3rc1
+Primary Alcohol | Tertiary Amine,6,Sage 2.3rc1
+Alcohol | Alcohol,17,Sage 2.3rc1
+Hydroxy | Tertiary Aliphatic Amine,6,Sage 2.3rc1
+Amine | Primary Alcohol,6,Sage 2.3rc1
+Hydroxy | Hydroxy,20,Sage 2.3rc1
+Alcohol | Primary Alcohol,17,Sage 2.3rc1
+Dialkylether | Nitrile,15,Sage 2.3rc1
+Ether | Nitrile,15,Sage 2.3rc1
+Alkane | Carboxylic Acid Amide,3,Sage 2.3rc1
+Alkane | Carboxylic Acid Derivative,18,Sage 2.3rc1
+Alkane | Lactam,3,Sage 2.3rc1
+Alkane | Carboxylic Acid Tertiary Amide,3,Sage 2.3rc1
+Aqueous | Secondary Amine,12,Sage 2.3rc1
+Amine | Aqueous,24,Sage 2.3rc1
+Aqueous | Secondary Aliphatic Amine,12,Sage 2.3rc1
+Aromatic | Dialkylether,45,Sage 2.3rc1
+Aromatic | Ether,63,Sage 2.3rc1
+Aqueous | Tertiary Aliphatic Amine,12,Sage 2.3rc1
+Aqueous | Tertiary Amine,12,Sage 2.3rc1
+"1,2 Diol | Aqueous",3,Sage 2.3rc1
+Heterocycle | Primary Aromatic Amine,15,Sage 2.3rc1
+Dialkylether | Primary Amine,3,Sage 2.3rc1
+Ether | Primary Aromatic Amine,3,Sage 2.3rc1
+Ether | Primary Amine,3,Sage 2.3rc1
+Heterocycle | Primary Amine,18,Sage 2.3rc1
+Amine | Ether,3,Sage 2.3rc1
+Amine | Heterocycle,18,Sage 2.3rc1
+Amine | Dialkylether,3,Sage 2.3rc1
+Dialkylether | Primary Aromatic Amine,3,Sage 2.3rc1
+Alkyl Bromide | Carboxylic Acid Ester,27,Sage 2.3rc1
+Alkyl Bromide | Carboxylic Acid Derivative,27,Sage 2.3rc1
+Carboxylic Acid Ester | Halogen Derivative,45,Sage 2.3rc1
+Ether | Heterocycle,12,Sage 2.3rc1
+Dialkylether | Heterocycle,12,Sage 2.3rc1
+Alcohol | Aromatic,45,Sage 2.3rc1
+Aromatic | Primary Alcohol,42,Sage 2.3rc1
+Aromatic | Hydroxy,45,Sage 2.3rc1
+Aryl Chloride | Carboxylic Acid Derivative,3,Sage 2.3rc1
+Aryl Chloride | Carboxylic Acid Tertiary Amide,3,Sage 2.3rc1
+Aryl Chloride | Carboxylic Acid Amide,3,Sage 2.3rc1
+Alkyl Chloride | Carboxylic Acid Ester,18,Sage 2.3rc1
+Carboxylic Acid Derivative | Carboxylic Acid Ester,18,Sage 2.3rc1
+Carboxylic Acid Derivative | Carboxylic Acid Derivative,18,Sage 2.3rc1
+Carboxylic Acid Ester | Carboxylic Acid Ester,15,Sage 2.3rc1
+Aqueous | Dialkylether,6,Sage 2.3rc1
+Aqueous | Ether,6,Sage 2.3rc1
+Aqueous | Primary Aliphatic Amine,3,Sage 2.3rc1
+Aqueous | Primary Amine,3,Sage 2.3rc1
+"1,2 Aminoalcohol | Aqueous",3,Sage 2.3rc1
+Alcohol | Phenol,3,Sage 2.3rc1
+Hydroxy | Phenol,3,Sage 2.3rc1
+Phenol | Primary Alcohol,3,Sage 2.3rc1
+Alkene | Primary Alcohol,9,Sage 2.3rc1
+Alcohol | Alkene,9,Sage 2.3rc1
+Alkene | Hydroxy,9,Sage 2.3rc1
+Carbonyl | Tertiary Amine,6,Sage 2.3rc1
+Carbonyl | Tertiary Aliphatic Amine,6,Sage 2.3rc1
+Ketone | Tertiary Amine,6,Sage 2.3rc1
+Ketone | Tertiary Aliphatic Amine,6,Sage 2.3rc1
+Carbonyl | Ether,21,Sage 2.3rc1
+Carbonyl | Dialkylether,21,Sage 2.3rc1
+Ether | Ketone,21,Sage 2.3rc1
+Carbonyl | Heterocycle,33,Sage 2.3rc1
+Heterocycle | Ketone,33,Sage 2.3rc1
+Dialkylether | Ketone,21,Sage 2.3rc1
+"1,2 Diol | Primary Alcohol",5,Sage 2.3rc1
+"1,2 Diol | Hydroxy",5,Sage 2.3rc1
+"1,2 Diol | Alcohol",5,Sage 2.3rc1
+Aromatic | Primary Aromatic Amine,12,Sage 2.3rc1
+Aromatic | Primary Amine,15,Sage 2.3rc1
+Nitrile | Primary Alcohol,3,Sage 2.3rc1
+Hydroxy | Nitrile,3,Sage 2.3rc1
+Alcohol | Nitrile,3,Sage 2.3rc1
+Heterocycle | Hydroxy,18,Sage 2.3rc1
+Alcohol | Heterocycle,18,Sage 2.3rc1
+Heterocycle | Primary Alcohol,15,Sage 2.3rc1
+Alkane | Secondary Alcohol,3,Sage 2.3rc1
+Aromatic | Carboxylic Acid Ester,6,Sage 2.3rc1
+Carboxylic Acid Derivative | Secondary Amine,6,Sage 2.3rc1
+Amine | Carboxylic Acid Tertiary Amide,12,Sage 2.3rc1
+Carboxylic Acid Tertiary Amide | Secondary Aliphatic Amine,6,Sage 2.3rc1
+Carboxylic Acid Amide | Secondary Amine,6,Sage 2.3rc1
+Amine | Carboxylic Acid Derivative,12,Sage 2.3rc1
+Carboxylic Acid Tertiary Amide | Secondary Amine,6,Sage 2.3rc1
+Amine | Carboxylic Acid Amide,12,Sage 2.3rc1
+Carboxylic Acid Derivative | Secondary Aliphatic Amine,6,Sage 2.3rc1
+Carboxylic Acid Amide | Secondary Aliphatic Amine,6,Sage 2.3rc1
+Carboxylic Acid Amide | Primary Aliphatic Amine,6,Sage 2.3rc1
+Carboxylic Acid Tertiary Amide | Primary Aliphatic Amine,6,Sage 2.3rc1
+Carboxylic Acid Derivative | Primary Aliphatic Amine,6,Sage 2.3rc1
+Carboxylic Acid Tertiary Amide | Primary Amine,6,Sage 2.3rc1
+Carboxylic Acid Derivative | Primary Amine,6,Sage 2.3rc1
+Carboxylic Acid Amide | Primary Amine,6,Sage 2.3rc1
+Alkyl Chloride | Heterocycle,18,Sage 2.3rc1
+Alkyl Chloride | Lactam,18,Sage 2.3rc1
+Halogen Derivative | Lactam,18,Sage 2.3rc1
+Halogen Derivative | Heterocycle,27,Sage 2.3rc1
+Aldehyde | Primary Alcohol,3,Sage 2.3rc1
+Alcohol | Aldehyde,3,Sage 2.3rc1
+Aldehyde | Hydroxy,3,Sage 2.3rc1
+Alkane | Carboxylic Acid Ester,15,Sage 2.3rc1
+Carbonyl | Carboxylic Acid Derivative,3,Sage 2.3rc1
+Carbonyl | Carboxylic Acid Tertiary Amide,3,Sage 2.3rc1
+Carbonyl | Lactam,3,Sage 2.3rc1
+Carboxylic Acid Amide | Ketone,3,Sage 2.3rc1
+Carboxylic Acid Derivative | Ketone,3,Sage 2.3rc1
+Ketone | Lactam,3,Sage 2.3rc1
+Carbonyl | Carboxylic Acid Amide,3,Sage 2.3rc1
+Carboxylic Acid Tertiary Amide | Ketone,3,Sage 2.3rc1
+Aromatic | Nitrile,6,Sage 2.3rc1
+Carboxylic Acid | Carboxylic Acid Ester,3,Sage 2.3rc1
+Carboxylic Acid | Carboxylic Acid Derivative,3,Sage 2.3rc1
+Alcohol | Carboxylic Acid,3,Sage 2.3rc1
+Carboxylic Acid | Hydroxy,3,Sage 2.3rc1
+Carboxylic Acid | Primary Alcohol,3,Sage 2.3rc1
+Hydroxy | Tertiary Alcohol,3,Sage 2.3rc1
+Primary Alcohol | Tertiary Alcohol,3,Sage 2.3rc1
+Alcohol | Tertiary Alcohol,3,Sage 2.3rc1
+Alkyl Bromide | Hydroxy,3,Sage 2.3rc1
+Alkyl Bromide | Primary Alcohol,3,Sage 2.3rc1
+Alcohol | Halogen Derivative,3,Sage 2.3rc1
+Halogen Derivative | Primary Alcohol,3,Sage 2.3rc1
+Alcohol | Alkyl Bromide,3,Sage 2.3rc1
+Halogen Derivative | Hydroxy,3,Sage 2.3rc1
+Ketone | Tertiary Alcohol,3,Sage 2.3rc1
+Carbonyl | Tertiary Alcohol,3,Sage 2.3rc1
+Aromatic | Primary Aliphatic Amine,3,Sage 2.3rc1
+"1,2 Aminoalcohol | Heterocycle",3,Sage 2.3rc1
+Heterocycle | Primary Aliphatic Amine,3,Sage 2.3rc1
+"1,2 Aminoalcohol | Aromatic",3,Sage 2.3rc1
+Aromatic | Secondary Alcohol,3,Sage 2.3rc1
+Carbonyl | Secondary Alcohol,3,Sage 2.3rc1
+Ketone | Secondary Alcohol,3,Sage 2.3rc1
+Acetal | Aromatic,3,Sage 2.3rc1
+Acetal | Halogen Derivative,3,Sage 2.3rc1
+Acetal | Aryl Chloride,3,Sage 2.3rc1
+Aryl Chloride | Heterocycle,9,Sage 2.3rc1
+Aryl Chloride | Dialkylether,6,Sage 2.3rc1
+Aryl Chloride | Ether,6,Sage 2.3rc1
+Ether | Hydroxy,30,Sage 2.3rc1
+Dialkylether | Hydroxy,12,Sage 2.3rc1
+Dialkylether | Primary Alcohol,9,Sage 2.3rc1
+Alcohol | Ether,30,Sage 2.3rc1
+Alcohol | Dialkylether,12,Sage 2.3rc1
+Ether | Primary Alcohol,27,Sage 2.3rc1
+Dialkylether | Tertiary Alcohol,3,Sage 2.3rc1
+Ether | Tertiary Alcohol,3,Sage 2.3rc1
+"1,2 Diol | Aromatic",3,Sage 2.3rc1
+Carboxylic Acid Ester | Secondary Alcohol,3,Sage 2.3rc1
+Carboxylic Acid Derivative | Secondary Alcohol,3,Sage 2.3rc1
+Ketone | Primary Amine,6,Sage 2.3rc1
+Ketone | Primary Aromatic Amine,6,Sage 2.3rc1
+Carbonyl | Primary Aromatic Amine,6,Sage 2.3rc1
+Aromatic | Ketone,12,Sage 2.3rc1
+Carbonyl | Primary Amine,6,Sage 2.3rc1
+Aromatic | Carbonyl,12,Sage 2.3rc1
+Carbonyl | Secondary Mixed Amine,6,Sage 2.3rc1
+Ketone | Secondary Mixed Amine,6,Sage 2.3rc1
+Aromatic | Halogen Derivative,3,Sage 2.3rc1
+Aromatic | Aryl Chloride,3,Sage 2.3rc1
+Acetal | Carbonyl,9,Sage 2.3rc1
+Acetal | Ketone,9,Sage 2.3rc1
+Alcohol | Alkylarylether,18,Sage 2.3rc1
+Alkylarylether | Hydroxy,18,Sage 2.3rc1
+Alkylarylether | Aromatic,18,Sage 2.3rc1
+Alkylarylether | Primary Alcohol,18,Sage 2.3rc1
+Carboxylic Acid Derivative | Tertiary Alcohol,3,Sage 2.3rc1
+Heterocycle | Tertiary Alcohol,3,Sage 2.3rc1
+Alkane | Aromatic,21,Sage 2.3rc2
+Ketone | Primary Amine,6,Sage 2.3rc2
+Amine | Carbonyl,30,Sage 2.3rc2
+Ketone | Primary Aromatic Amine,6,Sage 2.3rc2
+Carbonyl | Primary Aromatic Amine,6,Sage 2.3rc2
+Aromatic | Ketone,12,Sage 2.3rc2
+Amine | Ketone,30,Sage 2.3rc2
+Carbonyl | Primary Amine,6,Sage 2.3rc2
+Aromatic | Carbonyl,12,Sage 2.3rc2
+Dialkylether | Nitrile,15,Sage 2.3rc2
+Ether | Nitrile,15,Sage 2.3rc2
+Alkane | Carboxylic Acid Amide,3,Sage 2.3rc2
+Alkane | Carboxylic Acid Derivative,18,Sage 2.3rc2
+Alkane | Lactam,3,Sage 2.3rc2
+Alkane | Heterocycle,12,Sage 2.3rc2
+Alkane | Carboxylic Acid Tertiary Amide,3,Sage 2.3rc2
+Alkyl Bromide | Carboxylic Acid Ester,30,Sage 2.3rc2
+Carboxylic Acid Derivative | Halogen Derivative,102,Sage 2.3rc2
+Alkyl Bromide | Carboxylic Acid Derivative,30,Sage 2.3rc2
+Carboxylic Acid Ester | Halogen Derivative,45,Sage 2.3rc2
+Hydroxy | Primary Alcohol,21,Sage 2.3rc2
+"1,2 Diol | Primary Alcohol",3,Sage 2.3rc2
+Primary Alcohol | Primary Alcohol,12,Sage 2.3rc2
+Alcohol | Hydroxy,21,Sage 2.3rc2
+Alcohol | Alcohol,18,Sage 2.3rc2
+"1,2 Diol | Hydroxy",3,Sage 2.3rc2
+"1,2 Diol | Aromatic",3,Sage 2.3rc2
+Alcohol | Aromatic,45,Sage 2.3rc2
+Aromatic | Hydroxy,45,Sage 2.3rc2
+"1,2 Diol | Alcohol",3,Sage 2.3rc2
+Aromatic | Primary Alcohol,42,Sage 2.3rc2
+Hydroxy | Hydroxy,21,Sage 2.3rc2
+Alcohol | Primary Alcohol,18,Sage 2.3rc2
+Aromatic | Dialkylether,45,Sage 2.3rc2
+Aromatic | Ether,63,Sage 2.3rc2
+Aromatic | Heterocycle,63,Sage 2.3rc2
+Heterocycle | Primary Aromatic Amine,15,Sage 2.3rc2
+Dialkylether | Primary Amine,3,Sage 2.3rc2
+Ether | Primary Aromatic Amine,3,Sage 2.3rc2
+Ether | Primary Amine,3,Sage 2.3rc2
+Heterocycle | Primary Amine,18,Sage 2.3rc2
+Amine | Ether,3,Sage 2.3rc2
+Amine | Heterocycle,21,Sage 2.3rc2
+Amine | Dialkylether,3,Sage 2.3rc2
+Dialkylether | Primary Aromatic Amine,3,Sage 2.3rc2
+Alkyl Chloride | Carboxylic Acid Tertiary Amide,54,Sage 2.3rc2
+Alkyl Chloride | Carboxylic Acid Amide,54,Sage 2.3rc2
+Carboxylic Acid Tertiary Amide | Halogen Derivative,57,Sage 2.3rc2
+Carboxylic Acid Amide | Halogen Derivative,57,Sage 2.3rc2
+Alkyl Chloride | Carboxylic Acid Derivative,69,Sage 2.3rc2
+Aromatic | Primary Aromatic Amine,12,Sage 2.3rc2
+Aromatic | Aromatic,42,Sage 2.3rc2
+Amine | Aromatic,21,Sage 2.3rc2
+Aromatic | Primary Amine,15,Sage 2.3rc2
+Amine | Hydroxy,12,Sage 2.3rc2
+Alcohol | Amine,12,Sage 2.3rc2
+Primary Alcohol | Tertiary Aliphatic Amine,6,Sage 2.3rc2
+Hydroxy | Tertiary Amine,6,Sage 2.3rc2
+Alcohol | Tertiary Amine,6,Sage 2.3rc2
+Alcohol | Tertiary Aliphatic Amine,6,Sage 2.3rc2
+Primary Alcohol | Tertiary Amine,6,Sage 2.3rc2
+Hydroxy | Tertiary Aliphatic Amine,6,Sage 2.3rc2
+Amine | Primary Alcohol,9,Sage 2.3rc2
+Alkene | Primary Alcohol,9,Sage 2.3rc2
+Alcohol | Alkene,9,Sage 2.3rc2
+Alkene | Hydroxy,9,Sage 2.3rc2
+Carbonyl | Hydroxy,18,Sage 2.3rc2
+Hydroxy | Ketone,15,Sage 2.3rc2
+Alcohol | Carbonyl,18,Sage 2.3rc2
+Alcohol | Ketone,15,Sage 2.3rc2
+Carbonyl | Primary Alcohol,12,Sage 2.3rc2
+Ketone | Primary Alcohol,9,Sage 2.3rc2
+Dialkylether | Tertiary Alcohol,3,Sage 2.3rc2
+Dialkylether | Hydroxy,15,Sage 2.3rc2
+Alcohol | Ether,33,Sage 2.3rc2
+Ether | Tertiary Alcohol,3,Sage 2.3rc2
+Ether | Hydroxy,33,Sage 2.3rc2
+Alcohol | Dialkylether,15,Sage 2.3rc2
+Aromatic | Carboxylic Acid Tertiary Amide,12,Sage 2.3rc2
+Aromatic | Carboxylic Acid Derivative,21,Sage 2.3rc2
+Aryl Chloride | Carboxylic Acid Derivative,3,Sage 2.3rc2
+Aromatic | Carboxylic Acid Amide,12,Sage 2.3rc2
+Aryl Chloride | Carboxylic Acid Tertiary Amide,3,Sage 2.3rc2
+Aryl Chloride | Carboxylic Acid Amide,3,Sage 2.3rc2
+Carbonyl | Ether,30,Sage 2.3rc2
+Carbonyl | Dialkylether,30,Sage 2.3rc2
+Ether | Ketone,30,Sage 2.3rc2
+Carbonyl | Heterocycle,42,Sage 2.3rc2
+Heterocycle | Ketone,42,Sage 2.3rc2
+Dialkylether | Ketone,30,Sage 2.3rc2
+Carboxylic Acid Ester | Hydroxy,18,Sage 2.3rc2
+Alcohol | Carboxylic Acid Ester,18,Sage 2.3rc2
+Carboxylic Acid Ester | Primary Alcohol,12,Sage 2.3rc2
+Carboxylic Acid Derivative | Hydroxy,30,Sage 2.3rc2
+Carboxylic Acid Derivative | Primary Alcohol,21,Sage 2.3rc2
+Alcohol | Carboxylic Acid Derivative,30,Sage 2.3rc2
+Alcohol | Phenol,3,Sage 2.3rc2
+Hydroxy | Phenol,3,Sage 2.3rc2
+Phenol | Primary Alcohol,3,Sage 2.3rc2
+Aromatic | Lactam,9,Sage 2.3rc2
+Aromatic | Secondary Alcohol,3,Sage 2.3rc2
+Carbonyl | Secondary Alcohol,3,Sage 2.3rc2
+Ketone | Secondary Alcohol,3,Sage 2.3rc2
+Ketone | Tertiary Alcohol,3,Sage 2.3rc2
+Carbonyl | Tertiary Alcohol,3,Sage 2.3rc2
+Heterocycle | Heterocycle,21,Sage 2.3rc2
+Carboxylic Acid Derivative | Heterocycle,6,Sage 2.3rc2
+Amine | Aqueous,42,Sage 2.3rc2
+Aqueous | Primary Aliphatic Amine,9,Sage 2.3rc2
+Aqueous | Primary Alcohol,39,Sage 2.3rc2
+Aqueous | Primary Amine,9,Sage 2.3rc2
+Aqueous | Hydroxy,39,Sage 2.3rc2
+Alcohol | Aqueous,39,Sage 2.3rc2
+Ether | Halogen Derivative,18,Sage 2.3rc2
+Dialkylether | Halogen Derivative,18,Sage 2.3rc2
+Carbonyl | Tertiary Amine,6,Sage 2.3rc2
+Carbonyl | Tertiary Aliphatic Amine,6,Sage 2.3rc2
+Ketone | Tertiary Amine,6,Sage 2.3rc2
+Ketone | Tertiary Aliphatic Amine,6,Sage 2.3rc2
+Aqueous | Tertiary Aliphatic Amine,24,Sage 2.3rc2
+Aqueous | Tertiary Amine,24,Sage 2.3rc2
+Acetal | Carbonyl,9,Sage 2.3rc2
+Acetal | Ketone,9,Sage 2.3rc2
+Heterocycle | Primary Alcohol,18,Sage 2.3rc2
+Heterocycle | Hydroxy,21,Sage 2.3rc2
+Alcohol | Heterocycle,21,Sage 2.3rc2
+Dialkylether | Primary Alcohol,9,Sage 2.3rc2
+Ether | Primary Alcohol,27,Sage 2.3rc2
+Ether | Heterocycle,12,Sage 2.3rc2
+Dialkylether | Heterocycle,12,Sage 2.3rc2
+Alkyl Chloride | Heterocycle,18,Sage 2.3rc2
+Alkyl Chloride | Lactam,18,Sage 2.3rc2
+Halogen Derivative | Lactam,18,Sage 2.3rc2
+Halogen Derivative | Heterocycle,27,Sage 2.3rc2
+Ketone | Secondary Amine,18,Sage 2.3rc2
+Carbonyl | Secondary Amine,18,Sage 2.3rc2
+Carbonyl | Secondary Mixed Amine,6,Sage 2.3rc2
+Ketone | Secondary Mixed Amine,6,Sage 2.3rc2
+Alkane | Alkane,6,Sage 2.3rc2
+Alcohol | Alkylarylether,18,Sage 2.3rc2
+Alkylarylether | Hydroxy,18,Sage 2.3rc2
+Alkylarylether | Aromatic,18,Sage 2.3rc2
+Alkylarylether | Primary Alcohol,18,Sage 2.3rc2
+Alcohol | Carboxylic Acid,3,Sage 2.3rc2
+Carboxylic Acid | Hydroxy,3,Sage 2.3rc2
+Carboxylic Acid | Primary Alcohol,3,Sage 2.3rc2
+Aqueous | Secondary Aliphatic Amine,18,Sage 2.3rc2
+Aqueous | Secondary Amine,18,Sage 2.3rc2
+Carboxylic Acid Derivative | Secondary Amine,6,Sage 2.3rc2
+Amine | Carboxylic Acid Tertiary Amide,12,Sage 2.3rc2
+Carboxylic Acid Tertiary Amide | Secondary Aliphatic Amine,6,Sage 2.3rc2
+Carboxylic Acid Amide | Secondary Amine,6,Sage 2.3rc2
+Amine | Carboxylic Acid Derivative,12,Sage 2.3rc2
+Carboxylic Acid Tertiary Amide | Secondary Amine,6,Sage 2.3rc2
+Amine | Carboxylic Acid Amide,12,Sage 2.3rc2
+Carboxylic Acid Derivative | Secondary Aliphatic Amine,6,Sage 2.3rc2
+Carboxylic Acid Amide | Secondary Aliphatic Amine,6,Sage 2.3rc2
+Alkyl Bromide | Hydroxy,3,Sage 2.3rc2
+Alkyl Bromide | Primary Alcohol,3,Sage 2.3rc2
+Alcohol | Halogen Derivative,3,Sage 2.3rc2
+Halogen Derivative | Primary Alcohol,3,Sage 2.3rc2
+Alcohol | Alkyl Bromide,3,Sage 2.3rc2
+Halogen Derivative | Hydroxy,3,Sage 2.3rc2
+Carboxylic Acid Ester | Secondary Alcohol,6,Sage 2.3rc2
+Carboxylic Acid Derivative | Secondary Alcohol,6,Sage 2.3rc2
+Aromatic | Halogen Derivative,3,Sage 2.3rc2
+Aromatic | Aryl Chloride,3,Sage 2.3rc2
+Carbonyl | Secondary Aliphatic Amine,12,Sage 2.3rc2
+Ketone | Secondary Aliphatic Amine,12,Sage 2.3rc2
+Alkane | Ether,15,Sage 2.3rc2
+Alkane | Dialkylether,15,Sage 2.3rc2
+Aryl Chloride | Dialkylether,6,Sage 2.3rc2
+Aryl Chloride | Ether,6,Sage 2.3rc2
+Aryl Chloride | Heterocycle,9,Sage 2.3rc2
+Alkyl Chloride | Carboxylic Acid Ester,15,Sage 2.3rc2
+Hydroxy | Tertiary Alcohol,3,Sage 2.3rc2
+Primary Alcohol | Tertiary Alcohol,3,Sage 2.3rc2
+Alcohol | Tertiary Alcohol,3,Sage 2.3rc2
+Aromatic | Secondary Amine,3,Sage 2.3rc2
+Aromatic | Secondary Mixed Amine,3,Sage 2.3rc2
+Aromatic | Nitrile,6,Sage 2.3rc2
+Alkane | Primary Alcohol,12,Sage 2.3rc2
+Alcohol | Alkane,15,Sage 2.3rc2
+Alkane | Hydroxy,15,Sage 2.3rc2
+Alkyl Chloride | Ether,9,Sage 2.3rc2
+Alkyl Chloride | Dialkylether,9,Sage 2.3rc2
+"1,2 Diol | Aqueous",3,Sage 2.3rc2
+Carboxylic Acid Derivative | Carboxylic Acid Ester,21,Sage 2.3rc2
+Carboxylic Acid Derivative | Carboxylic Acid Derivative,21,Sage 2.3rc2
+Carboxylic Acid Ester | Carboxylic Acid Ester,15,Sage 2.3rc2
+Nitrile | Primary Alcohol,3,Sage 2.3rc2
+Hydroxy | Nitrile,3,Sage 2.3rc2
+Alcohol | Nitrile,3,Sage 2.3rc2
+Aromatic | Carboxylic Acid Ester,6,Sage 2.3rc2
+Alkane | Secondary Mixed Amine,6,Sage 2.3rc2
+Alkane | Amine,6,Sage 2.3rc2
+Alkane | Secondary Amine,6,Sage 2.3rc2
+Carboxylic Acid Amide | Primary Aliphatic Amine,6,Sage 2.3rc2
+Carboxylic Acid Tertiary Amide | Primary Aliphatic Amine,6,Sage 2.3rc2
+Carboxylic Acid Derivative | Primary Aliphatic Amine,6,Sage 2.3rc2
+Carboxylic Acid Tertiary Amide | Primary Amine,6,Sage 2.3rc2
+Carboxylic Acid Derivative | Primary Amine,6,Sage 2.3rc2
+Carboxylic Acid Amide | Primary Amine,6,Sage 2.3rc2
+Primary Amine | Secondary Alcohol,3,Sage 2.3rc2
+Alcohol | Primary Amine,6,Sage 2.3rc2
+Hydroxy | Primary Amine,6,Sage 2.3rc2
+Alcohol | Primary Aliphatic Amine,6,Sage 2.3rc2
+Amine | Secondary Alcohol,3,Sage 2.3rc2
+Hydroxy | Primary Aliphatic Amine,6,Sage 2.3rc2
+Primary Aliphatic Amine | Secondary Alcohol,3,Sage 2.3rc2
+Aqueous | Heterocycle,33,Sage 2.3rc2
+Aqueous | Dialkylether,12,Sage 2.3rc2
+Aqueous | Ether,12,Sage 2.3rc2
+Alkane | Carboxylic Acid Ester,15,Sage 2.3rc2
+Aqueous | Aromatic,9,Sage 2.3rc2
+Aromatic | Primary Aliphatic Amine,3,Sage 2.3rc2
+"1,2 Aminoalcohol | Heterocycle",3,Sage 2.3rc2
+Heterocycle | Primary Aliphatic Amine,3,Sage 2.3rc2
+"1,2 Aminoalcohol | Aromatic",3,Sage 2.3rc2
+"1,2 Aminoalcohol | Aqueous",6,Sage 2.3rc2
+Aqueous | Carboxylic Acid Derivative,6,Sage 2.3rc2
+Primary Alcohol | Primary Aliphatic Amine,3,Sage 2.3rc2
+Primary Alcohol | Primary Amine,3,Sage 2.3rc2
+Aqueous | Carboxylic Acid Ester,3,Sage 2.3rc2
+Aqueous | Lactone,3,Sage 2.3rc2
+Acetal | Aromatic,3,Sage 2.3rc2
+Acetal | Halogen Derivative,3,Sage 2.3rc2
+Acetal | Aryl Chloride,3,Sage 2.3rc2
+Alkane | Secondary Alcohol,3,Sage 2.3rc2
+Carboxylic Acid Derivative | Tertiary Alcohol,3,Sage 2.3rc2
+Heterocycle | Tertiary Alcohol,3,Sage 2.3rc2
+Heterocycle | Lactam,3,Sage 2.3rc2
+Carboxylic Acid Tertiary Amide | Heterocycle,3,Sage 2.3rc2
+Carboxylic Acid Amide | Heterocycle,3,Sage 2.3rc2
+Aromatic | Tertiary Aliphatic Amine,3,Sage 2.3rc2
+Heterocycle | Tertiary Amine,3,Sage 2.3rc2
+Aromatic | Tertiary Amine,3,Sage 2.3rc2
+Heterocycle | Tertiary Aliphatic Amine,3,Sage 2.3rc2
+Aldehyde | Primary Alcohol,3,Sage 2.3rc2
+Alcohol | Aldehyde,3,Sage 2.3rc2
+Aldehyde | Hydroxy,3,Sage 2.3rc2
+Alcohol | Secondary Alcohol,3,Sage 2.3rc2
+Primary Alcohol | Secondary Alcohol,3,Sage 2.3rc2
+Hydroxy | Secondary Alcohol,3,Sage 2.3rc2
+Ether | Secondary Alcohol,3,Sage 2.3rc2
+Dialkylether | Secondary Alcohol,3,Sage 2.3rc2
+Carbonyl | Carboxylic Acid Derivative,3,Sage 2.3rc2
+Carbonyl | Carboxylic Acid Tertiary Amide,3,Sage 2.3rc2
+Carbonyl | Lactam,3,Sage 2.3rc2
+Carboxylic Acid Amide | Ketone,3,Sage 2.3rc2
+Carboxylic Acid Derivative | Ketone,3,Sage 2.3rc2
+Ketone | Lactam,3,Sage 2.3rc2
+Carbonyl | Carboxylic Acid Amide,3,Sage 2.3rc2
+Carboxylic Acid Tertiary Amide | Ketone,3,Sage 2.3rc2
+Carboxylic Acid Ester | Carboxylic Acid Tertiary Amide,3,Sage 2.3rc2
+Carboxylic Acid Derivative | Carboxylic Acid Tertiary Amide,3,Sage 2.3rc2
+Carboxylic Acid Amide | Carboxylic Acid Derivative,3,Sage 2.3rc2
+Carboxylic Acid Amide | Carboxylic Acid Ester,3,Sage 2.3rc2
+Carboxylic Acid | Carboxylic Acid Ester,3,Sage 2.3rc2
+Carboxylic Acid | Carboxylic Acid Derivative,3,Sage 2.3rc2
